@@ -1,3 +1,5 @@
+<img src="http://imgh.us/beer.svg" width="30" style="display: block;">
+
 # Craft Breweries in California
 
 A quasi-exhaustive list of operational craft breweries in California. I'd like to keep the list current; contributions are certainly welcome. Cheers and amen!
