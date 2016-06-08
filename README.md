@@ -301,12 +301,15 @@ A quasi-exhaustive list of operational craft breweries in California. Contributi
 
 ## Santa Barbara County
 
+* [Draughtsmen Aleworks in Goleta](http://www.draughtsmenaleworks.com)
 * [Figueroa Mountain Brewing Company in Buellton](http://www.figmtnbrew.com)
 * [Firestone Walker Brewing Company in Buellton](http://www.firestonebeer.com/visit/buellton.php)
+* [Hollister Brewing Company in Goleta](http://hollisterbrewco.com)
 * [Island Brewing Company in Carpinteria](http://www.islandbrewingcompany.com)
 * [M. Special Brewing Company in Goleta](http://mspecialbrewco.com)
 * [Pure Order Brewing Company in Santa Barbara](http://pureorderbrewing.com)
 * [Telegraph Brewing Company in Santa Barbara](http://www.telegraphbrewing.com)
+* [The Brewhouse in Santa Barbara](http://www.sbbrewhouse.com/brewery-santa-barbara/)
 
 ## Santa Clara County
 
