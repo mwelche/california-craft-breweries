@@ -167,6 +167,7 @@ A quasi-exhaustive list of operational craft breweries in California. I'd like t
 * [Barley Forge Brewing Company in Costa Mesa](http://barleyforge.com)
 * [Beach City Brewery in Huntington Beach](http://beachwoodbbq.com/brewery.html)
 * [Bootlegger's Brewery in Fullerton](http://www.bootleggersbrewery.com)
+* [Bottle Logic Brewing in Anaheim](http://bottlelogic.com/)
 * [The Bruery in Placentia](http://www.thebruery.com)
 * [The Good Beer Company in Santa Ana](http://www.thegoodbeerco.com)
 * [Noble Ale Works in Anaheim](http://www.noblealeworks.com)
