@@ -1,4 +1,4 @@
-<img src="http://imgh.us/beer.svg" width="30" style="display: block;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg" width="400" style="display: block; max-width: 400px;">
 
 # Craft Breweries in California
 
