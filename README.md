@@ -2,7 +2,7 @@
 
 # Craft Breweries in California
 
-A quasi-exhaustive list of operational craft breweries in California. I'd like to keep the list current; contributions are certainly welcome. Cheers and amen!
+A quasi-exhaustive list of operational craft breweries in California. Contributions are welcome. Cheers and amen!
 
 ## By County
 
@@ -112,10 +112,13 @@ A quasi-exhaustive list of operational craft breweries in California. I'd like t
 * [Absolution Brewing Company in Torrance](http://www.absolutionbrewingcompany.com)
 * [Alosta Brewing Co in Covina](http://alostabrewing.com)
 * [Angel City Brewery in Los Angeles](http://angelcitybrewery.com)
+* [Beachwood BBQ & Brewery in Long Beach](http://beachwoodbbq.com/brewery.html)
+* [Beachwood Blendery in Long Beach](http://beachwoodbbq.com/blendery.html)
 * [Claremont Craft Ales in Claremont](http://www.claremontcraftales.com)
 * [The Dudes' Brewing Company in Torrance](http://www.thedudesbrew.com)
 * [Eagle Rock Brewery in Los Angeles](http://www.eaglerockbrewery.com)
 * [El Segundo Brewing Company in El Segundo](http://www.yelp.com/biz/el-segundo-brewing-company-el-segundo-3)
+* [Firestone Walker Brewing Company in Venice](http://www.firestonebeer.com/visit/venice.php)
 * [Golden Road Brewery in Los Angeles](http://www.goldenroad.la)
 * [Gordon Biersch Brewing Company in Burbank](http://www.gordonbiersch.com/locations/burbank)
 * [Karl Strauss Brewing Company in Universal City Walk](https://www.karlstrauss.com/visit/universal-city-walk)
@@ -167,11 +170,15 @@ A quasi-exhaustive list of operational craft breweries in California. I'd like t
 * [Barley Forge Brewing Company in Costa Mesa](http://barleyforge.com)
 * [Beach City Brewery in Huntington Beach](http://beachwoodbbq.com/brewery.html)
 * [Bootlegger's Brewery in Fullerton](http://www.bootleggersbrewery.com)
-* [Bottle Logic Brewing in Anaheim](http://bottlelogic.com/)
+* [Bottle Logic Brewing in Anaheim](http://bottlelogic.com)
 * [The Bruery in Placentia](http://www.thebruery.com)
 * [The Good Beer Company in Santa Ana](http://www.thegoodbeerco.com)
+* [Hoparazzi Brewing Co. in Anaheim](http://www.yelp.com/biz/hoparazzi-brewing-co-anaheim-2)
+* [Legends Craft Brewery in Anaheim](http://www.yelp.com/biz/legends-craft-brewery-anaheim-2)
 * [Noble Ale Works in Anaheim](http://www.noblealeworks.com)
 * [Old Orange Brewing Company in Orange](http://www.oldorangebrewing.com)
+* [Phantom Ales in Anaheim](http://www.phantomales.com)
+* [Pizza Port in San Clemente](http://www.pizzaport.com/locations/pizza-port-san-clemente)
 * [Riip Beer Company in Huntington Beach](http://riipbeer.com)
 * [Tustin Brewing Company in Tustin](http://tustinbrewery.com)
 * [Valiant Brewing Company in Orange](http://www.valiantbrewing.com)
@@ -281,6 +288,7 @@ A quasi-exhaustive list of operational craft breweries in California. I'd like t
 
 ## San Luis Obispo County
 
+* [BarrelHouse Brewing Co.](http://www.barrelhousebrewing.com)
 * [Firestone Walker Brewing Company in Paso Robles](http://www.firestonebeer.com)
 * [Tap It Brewing Company in San Luis Obispo](http://www.tapitbrewing.com)
 
