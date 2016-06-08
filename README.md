@@ -1,6 +1,6 @@
 # Craft Breweries in California
 
-A quasi-comprehensive list of craft breweries in the state of California. I'd like to keep this list as current as possible. Contributions are certainly welcome. I enjoy [talking shop on Twitter](https://twitter.com/timothylong). Cheers and amen!
+A quasi-exhaustive list of operational craft breweries in California. I'd like to keep the list current; contributions are certainly welcome. Cheers and amen!
 
 ## By County
 
@@ -67,9 +67,9 @@ A quasi-comprehensive list of craft breweries in the state of California. I'd li
 
 ## Butte County
 
-* [Sierra Nevada Brewing Company in Chico](http://www.sierranevada.com)
 * [Feather Falls Casino Brewing Company in Oroville](http://featherfallscasino.com/dining/brewing-co)
 * [Feather River Brewing Company in Magalia](http://www.featherriverbrewing.com)
+* [Sierra Nevada Brewing Company in Chico](http://www.sierranevada.com)
 
 ## Contra Costa County
 
@@ -202,8 +202,8 @@ A quasi-comprehensive list of craft breweries in the state of California. I'd li
 
 * [Acoustic Ales Brewing Experiment in San Diego](http://www.acousticales.com)
 * [AleSmith Brewing Company in San Diego](http://alesmith.com)
-* [Amplified Aleworks in San Diego](http://www.amplifiedales.com)
 * [Alpine Beer Company in Alpine](http://alpinebeerco.com)
+* [Amplified Aleworks in San Diego](http://www.amplifiedales.com)
 * [Aztec Brewing Company in Vista](http://www.aztecbrewery.com)
 * [Ballast Point Brewing Company in San Diego](http://www.ballastpoint.com)
 * [Barrel Harbor Brewing in Vista](http://barrelharborbrewing.com)
@@ -259,49 +259,48 @@ A quasi-comprehensive list of craft breweries in the state of California. I'd li
 
 ## San Francisco City and County
 
-* 21st Amendment Brewery
-* Almanac Beer Company
-* Anchor Brewing Company
-* Beach Chalet Brewery & Restaurant
-* Black Sands Brewery
-* Cellarmaker Brewing Company
-* Cervezería de MateVeza
-* Fort Point Beer Company
-* Hamm's Brewery
-* Harmonic Brewing
-* Speakeasy Ales and Lagers
-* Sunset Reservoir Brewing Company
-* Thirsty Bear Brewing Company
+* [21st Amendment Brewery](http://21st-amendment.com)
+* [Almanac Beer Company](http://www.almanacbeer.com)
+* [Anchor Brewing Company](http://www.anchorbrewing.com)
+* [Beach Chalet Brewery & Restaurant](http://www.beachchalet.com/#coastal-seafood-brewery)
+* [Black Sands Brewery](http://www.blacksandsbeer.com)
+* [Cellarmaker Brewing Company](http://www.cellarmakerbrewing.com)
+* [Fort Point Beer Company](http://www.fortpointbeer.com)
+* [Harmonic Brewing](http://harmonicbrewing.com)
+* [Speakeasy Ales and Lagers](http://www.goodbeer.com)
+* [Sunset Reservoir Brewing Company](http://sunsetbeersf.com)
+* [Thirsty Bear Brewing Company](http://thirstybear.com)
+* [Woods Cervecería](http://www.woodsbeer.com)
 
 ## San Joaquin County
 
-* Fossil Fuels Brewing Company
+* [Fossil Fuels Brewing Company](http://www.fossilfuelsbrewingco.com)
 
 ## San Luis Obispo County
 
-* Firestone Walker Brewing Company in Paso Robles
-* Tap It Brewing Company in San Luis Obispo
+* [Firestone Walker Brewing Company in Paso Robles](http://www.firestonebeer.com)
+* [Tap It Brewing Company in San Luis Obispo](http://www.tapitbrewing.com)
 
 ## San Mateo County
 
-* Devil's Canyon Brewing Company in Belmont
-* Half Moon Bay Brewing Company in Princeton-by-the-Sea
-* Highway 1 Brewing in Pescadero
-* Hop Dogma Brewing in El Granada
+* [Devil's Canyon Brewing Company in Belmont](http://devilscanyon.com)
+* [Half Moon Bay Brewing Company in Half Moon Bay](http://www.hmbbrewingco.com)
+* [Highway 1 Brewing in Pescadero](http://www.highway1brewing.com)
+* [Hop Dogma Brewing in El Granada](http://hopdogma.com)
 
 ## Santa Barbara County
 
-* Figueroa Mountain Brewing Company in Buellton
-* Firestone Walker Brewing Company in Buellton
-* Island Brewing Company in Carpinteria
-* M. Special Brewing Company in Goleta
-* Pure Order Brewing Company in Santa Barbara
-* Telegraph Brewing Company in Santa Barbara
+* [Figueroa Mountain Brewing Company in Buellton](http://www.figmtnbrew.com)
+* [Firestone Walker Brewing Company in Buellton](http://www.firestonebeer.com/visit/buellton.php)
+* [Island Brewing Company in Carpinteria](http://www.islandbrewingcompany.com)
+* [M. Special Brewing Company in Goleta](http://mspecialbrewco.com)
+* [Pure Order Brewing Company in Santa Barbara](http://pureorderbrewing.com)
+* [Telegraph Brewing Company in Santa Barbara](http://www.telegraphbrewing.com)
 
 ## Santa Clara County
 
-* El Toro Brewing Company in Morgan Hill
-* Gordon Biersch Brewing Company in San Jose
+* [El Toro Brewing Company in Morgan Hill](http://www.eltorobrewing.com)
+* [Gordon Biersch Brewing Company in San Jose](http://www.gordonbiersch.com/locations/san-jose)
 
 ## Santa Cruz County
 
@@ -315,48 +314,47 @@ A quasi-comprehensive list of craft breweries in the state of California. I'd li
 
 ## Siskiyou County
 
-* Dunsmuir Brewery Works in Dunsmuir
-* Etna Brewing Company in Etna
-* Mt. Shasta Brewing Company in Weed
-* Siskiyou Brew Works
+* [Dunsmuir Brewery Works in Dunsmuir](http://www.dunsmuirbreweryworks.com)
+* [Etna Brewing Company in Etna](http://www.etnabrew.com)
+* [Mt. Shasta Brewing Company in Weed](http://www.weedales.com)
+* [Siskiyou Brew Works](http://siskiyoubrewworks.com)
 
 ## Solano County
 
-* Anheuser-Busch InBev brewery in Fairfield
-* Heretic Brewing Company in Fairfield
-* Right Eye Brewery in Suisan
+* [Anheuser-Busch InBev brewery in Fairfield](http://www.budweisertours.com)
+* [Heretic Brewing Company in Fairfield](http://www.hereticbrewing.com)
+* [Right Eye Brewery in Suisan](http://www.righteyebrewing.com)
 
 ## Sonoma County
 
-* Bear Republic Brewing Company in Healdsburg
-* Carneros Brewing Company in Sonoma
-* Fog Belt Brewing Company in Santa Rosa
-* Lagunitas Brewing Company in Petaluma
-* Moonlight Brewing Company in Santa Rosa
-* Old Redwood Brewing Company in Windsor
-* Petaluma Hills Brewing Company in Petaluma
-* Russian River Brewing Company in Santa Rosa
-* Sonoma Springs Brewing Company in Sonoma
-* St. Florian's Brewery in Windsor
-* Stumptown Brewery in Guerneville
-* Third Street Aleworks in Santa Rosa
+* [Bear Republic Brewing Company in Healdsburg](http://bearrepublic.com)
+* [Carneros Brewing Company in Sonoma](http://www.carnerosbrewing.com)
+* [Fog Belt Brewing Company in Santa Rosa](http://www.fogbeltbrewing.com)
+* [Lagunitas Brewing Company in Petaluma](https://lagunitas.com/taprooms/petaluma)
+* [Moonlight Brewing Company in Santa Rosa](http://www.moonlightbrewing.com)
+* [Old Redwood Brewing Company in Windsor](http://oldredwoodbrewing.com)
+* [Petaluma Hills Brewing Company in Petaluma](http://petalumahills.com)
+* [Russian River Brewing Company in Santa Rosa](http://russianriverbrewing.com)
+* [Sonoma Springs Brewing Company in Sonoma](http://www.sonomaspringsbrewing.com)
+* [St. Florian's Brewery in Windsor](http://www.stfloriansbrewery.com)
+* [Stumptown Brewery in Guerneville](http://www.stumptown.com)
+* [Third Street Aleworks in Santa Rosa](http://thirdstreetaleworks.com)
 
 ## Stanislaus County
 
-* Dust Bowl Brewing Company in Turlock
-* St. Stan's Brewery in Modesto
+* [Dust Bowl Brewing Company in Turlock](http://www.dustbowlbrewing.com)
 
 ## Ventura County
 
-* Enegren Brewing Co. in Moorpark
-* Institution Ale Co. in Camarillo
-* Surf Brewery in Ventura
-* Westlake Brewing Co. in Westlake Village
+* [Enegren Brewing Co. in Moorpark](http://enegrenbrewing.com)
+* [Institution Ale Co. in Camarillo](http://institutionales.com)
+* [Surf Brewery in Ventura](http://surfbrewery.com)
+* [Westlake Brewing Co. in Westlake Village](http://westlakebrewingcompany.com)
 
 ## Yolo County
 
-* Bike Dog Brewing Company in West Sacramento
-* Jackrabbit Brewing Company in West Sacramento
-* Sudwerk Privatbrauerei Hubsch in Davis
-* Three Mile Brewing Company in Davis
-* Yolo Brewing Co.
+* [Bike Dog Brewing Company in West Sacramento](http://www.bikedogbrewing.com)
+* [Jackrabbit Brewing Company in West Sacramento](http://www.jackrabbitbrewingcompany.com)
+* [Sudwerk Privatbrauerei Hubsch in Davis](http://sudwerkbrew.com)
+* [Three Mile Brewing Company in Davis](http://www.threemilebrewing.com)
+* [Yolo Brewing Co. in West Sacramento](http://yolobrew.com)
